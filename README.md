@@ -1,3 +1,3 @@
 
 
-this is README.md for test in linux
+this is README.md for test on linux
